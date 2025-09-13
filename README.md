@@ -78,7 +78,11 @@ int main() {
 }
 ```
 # OUTPUT
-<img width="1252" height="626" alt="Screenshot 2025-09-01 084551" src="https://github.com/user-attachments/assets/095ef177-de6f-407e-a107-51158032f1ca" />
+# VALID SYMBOL
+<img width="1469" height="732" alt="image" src="https://github.com/user-attachments/assets/8a013dc3-0093-4b23-83f9-af9d310039e4" />
+
+# INVALID SYMBOL
+<img width="1457" height="663" alt="image" src="https://github.com/user-attachments/assets/2f634cbf-8b01-42a5-9225-95a92e0834c0" />
 
 
 # RESULT
